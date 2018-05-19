@@ -5,8 +5,8 @@
 ![图片展示：初始化](https://github.com/ITzhaowen/ChooseAndDelete/blob/master/showImg/index.png)
 
 插入数据：
-![图片展示：插入数据](https://github.com/ITzhaowen/ChooseAndDelete/tree/master/showImg/insert.png)
+![图片展示：插入数据](https://github.com/ITzhaowen/ChooseAndDelete/blob/master/showImg/insert.png)
 
 删除数据：
-![图片展示：删除数据](https://github.com/ITzhaowen/ChooseAndDelete/tree/master/showImg/delete.png)
+![图片展示：删除数据](https://github.com/ITzhaowen/ChooseAndDelete/blob/master/showImg/delete.png)
 
